@@ -1,19 +1,18 @@
-// //console.log("conected...");
-// //document.write("conected...");
+// console.log("conected...");
+// document.write("conected...");
 
 
-// // var x ,y ,z;
+// var x ,y ,z;
 
-// //x = 12;
-// // y = 8;
-// // z = x + y;
-// //  document.write(z);
-// //  console.log(z);
-// //  window.alert(z);
+// x = 12;
+// y = 8;
+// z = x + y;
+//  document.write(z);
+//  console.log(z);
+//  window.alert(z);
 
-// //----------------------------------------------------------
 
-// // var Number= 23 + 22 +"codeyad"
+// var Number= 23 + 22 +"codeyad"
 // var string = 20 + "   " + "codeyad"
 
 
@@ -35,7 +34,6 @@
 // document.write(person.Fname);
 // document.write(person.Fname + person.Lname );
 
-// ------------------------------------------------------------
 
 // arraye
 
@@ -47,5 +45,20 @@
 // var Names = new Array("ali", "mamad", "reza");
 
 // console.log(Names[1]);
-var One = new Array(12, 13, 14);
-console.log(One);
+// var One = new Array(12, 13, 14);
+// console.log(One[1]);
+
+// var index = new Array("ali", 25, false, 22.5);
+// index.shift();
+// index.unshift(2);
+// index.pop();
+// index.push(1);
+// index.slice();
+
+// console.log(index);    
+
+
+// var result = index.indexOf(22.5, 0)
+// console.log(result);
+
+
